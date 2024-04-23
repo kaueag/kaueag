@@ -3,7 +3,7 @@
 ### 💻 Sobre mim
 
     ⚙️   Estudei 3 anos de Engenharia Mecânica na Universidade Estadual de Santa Catarina 
-         (só gostei da parte da Matemática, quando chegou a parte da Física, vi que não era pra mim)
+         (só gostei da parte da Matemática, quando chegou a parte da Física, vi que não era pra mim 😅)
          
     🎓   Formado em Publicidade e Propaganda
     
