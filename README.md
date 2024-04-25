@@ -16,8 +16,9 @@
          
     🏣   Fui para agência de publicidade. Lá comecei a mexer com SEO e ter algumas noções básicas de programação.
     
-    📈   Em seguida busquei profissionalizar meus conhecimentos em programação e dados focando em Power BI, SQL e
-         Python.
+    📈   Após essa agência, trabalhei em uma startup da Inglaterra com Marketing Digital e tendo mais contato com dados, tabelas e SQL.
+         Em seguida busquei profissionalizar meus conhecimentos em programação e dados focando em Power BI, SQL e
+         Python
 
 <div align="center">
       <h3><b>Contatos</b></h3>
